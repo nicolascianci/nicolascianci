@@ -1,7 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://media-exp1.licdn.com/dms/image/
-   C4E03AQGj8tZiNi1qNA/profile-displayphoto-shrink_800_800/0/1579189792457
-   ?e=1646870400&v=beta&t=0P-oTTdY9gYH6EhMnVXq2FrRXIS7KPmJuKU1tQKQMtY" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/nicolascianci/nicolascianci/main/perfil.jpg" />
    <h3 align="center">¡Hi 👋! I'm Nicolás 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Ssr Full Stack</strong> developer<br />¡Check my content 👇!</p>
